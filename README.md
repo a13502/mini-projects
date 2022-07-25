@@ -1,2 +1,2 @@
-hello I'm aneri from India and I'm currently looking for teamates for projects and codings
+hello I've done cs50x courses and am currently in college.
 

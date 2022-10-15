@@ -1,2 +1,2 @@
-hello I've done cs50x courses and am currently in college.
+Hello I am aneri patel and welcome to my github.
 

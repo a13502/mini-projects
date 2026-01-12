@@ -1,5 +1,5 @@
 /*cincentration game*/
-
+//this is a dummy comment if any one sees this pull request for a surprise. (dont worry its not some kind of scam or something)
 #include <stdio.h>
 void main()
 {      int a,b,c,d,e,f,g,h,i,j,k,l,m,x=0;
